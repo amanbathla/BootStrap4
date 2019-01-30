@@ -1,0 +1,21 @@
+body{
+    padding-top: 4.3rem;
+}
+
+.jumbotron{
+
+    background: url(../images/banner.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+nav{
+    background: url(../images/header.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     
+}
